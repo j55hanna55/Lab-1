@@ -16,5 +16,5 @@ if(dime>1):
 if(penny>1):
    py="pennies"
    
-#display the output
+#display the output 
 print(quarter,qt,",",dime,dm,penny,py)
